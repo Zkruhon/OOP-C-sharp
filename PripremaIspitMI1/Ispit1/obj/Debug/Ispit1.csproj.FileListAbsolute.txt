@@ -1,0 +1,6 @@
+C:\Users\zvoni\Desktop\PripremaIspitMI1\Ispit1\obj\Debug\Ispit1.csprojAssemblyReference.cache
+C:\Users\zvoni\Desktop\PripremaIspitMI1\Ispit1\bin\Debug\Ispit1.exe.config
+C:\Users\zvoni\Desktop\PripremaIspitMI1\Ispit1\bin\Debug\Ispit1.exe
+C:\Users\zvoni\Desktop\PripremaIspitMI1\Ispit1\bin\Debug\Ispit1.pdb
+C:\Users\zvoni\Desktop\PripremaIspitMI1\Ispit1\obj\Debug\Ispit1.exe
+C:\Users\zvoni\Desktop\PripremaIspitMI1\Ispit1\obj\Debug\Ispit1.pdb

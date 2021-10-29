@@ -1,0 +1,6 @@
+C:\Users\zvoni\Desktop\Faks\3. Semestar\OOP\Ostalo\OOP-MI2-priprema\OOP-MI2-priprema\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\zvoni\Desktop\Faks\3. Semestar\OOP\Ostalo\OOP-MI2-priprema\OOP-MI2-priprema\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\zvoni\Desktop\Faks\3. Semestar\OOP\Ostalo\OOP-MI2-priprema\OOP-MI2-priprema\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\zvoni\Desktop\Faks\3. Semestar\OOP\Ostalo\OOP-MI2-priprema\OOP-MI2-priprema\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+C:\Users\zvoni\Desktop\Faks\3. Semestar\OOP\Ostalo\OOP-MI2-priprema\OOP-MI2-priprema\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\zvoni\Desktop\Faks\3. Semestar\OOP\Ostalo\OOP-MI2-priprema\OOP-MI2-priprema\Zadatak\obj\Debug\Zadatak.pdb
